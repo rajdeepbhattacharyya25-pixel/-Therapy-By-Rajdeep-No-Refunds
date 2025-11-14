@@ -1,0 +1,7 @@
+{
+  "name": "Therapy By Rajdeep: No Refunds",
+  "description": "A web-based satirical AI therapist chat application that deliberately provides hilariously inappropriate and negative therapeutic advice by misinterpreting user inputs in the most absurd ways possible, designed as a stress-relief humor tool.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
